@@ -6,3 +6,6 @@ Intro 5
 
 How about a new branch 1
 add some info in branch 1
+
+how about a branch 2
+and make some changes in branch 2
