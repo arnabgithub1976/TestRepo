@@ -1,3 +1,7 @@
 This is a demo file create from another GIT Repo
 
+<<<<<<< HEAD
 How about a demo behind the scene
+=======
+I added a new line here for pull
+>>>>>>> f0a614a91a59ef196d5f07aa089d2a6478f74857
